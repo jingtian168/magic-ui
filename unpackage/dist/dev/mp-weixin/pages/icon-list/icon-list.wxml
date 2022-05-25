@@ -1,0 +1,1 @@
+<view class="container"><view wx:for="{{a}}" wx:for-item="item" wx:key="d" class="content"><m-icon wx:if="{{item.b}}" u-i="{{item.a}}" bind:__l="__l" u-p="{{item.b}}"></m-icon><text>{{item.c}}</text></view></view>

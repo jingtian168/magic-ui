@@ -1,0 +1,1 @@
+<view class="content"><view class="title"><text space="emsp">{{a}}</text></view><view class="title1"> 基础组件 </view><view class="list"><view wx:for="{{b}}" wx:for-item="item" wx:key="b" class="item" bindtap="{{c}}">{{item.a}}</view></view></view>

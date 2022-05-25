@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "m-icon": "../../uni_modules/magic-ui/components/m-icon/m-icon"
+  }
+}

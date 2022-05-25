@@ -1,0 +1,21 @@
+
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.content{
+	margin-left: 30rpx;
+	width: 200rpx;
+	text-align: center;
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 30rpx;
+}
+.icon{
+	margin-left: 20rpx;
+	margin-top: 20rpx;
+}
